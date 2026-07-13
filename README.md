@@ -1,28 +1,39 @@
-#  KERNEL VOLTAGE | Central Hub
+# KERNEL VOLTAGE | Central Hub
 
-> Simple navigation map for all live applications, game builds, and software asset modules. 
-
----
-
-##  FORUM: REQUEST A CUSTOM TOOL
- Need a specific application, automation script, or graphic asset pack? Post your problem statement directly in our network node:
- [**CLICK HERE: Request a Tool / Report an Issue**](https://github.com/KernelVoltage/Headquarter/issues)  
-*(Open a new issue thread, and we will build and optimize the system for you).*
+This is the central control hub for all live systems, game builds, and software asset modules.
 
 ---
 
-##  DATA MATRIX 1: WEB APPLICATIONS & TOOLS
+## COMMUNITY FORUM (SUBMIT YOUR REQUESTS)
+If you need a specific application, automation script, or graphic asset pack, post your problem statement here:
+[CLICK HERE: Request a Tool or Report an Issue](https://github.com/KernelVoltage/Headquarter/issues)
+
+---
+
+## DATA MATRIX 1: LIVE WEBSITES & TOOLS
 | Utility System | Live Application | Source Architecture | Core Purpose |
 | :--- | :--- | :--- | :--- |
-| **Omni-Engine** | [ Open Application](https://omni-engine-mu.vercel.app) | [ View Repository](https://github.com/KernelVoltage/omni-engine) | Privacy-first local image converter. |
-| *[System Offline]* | *[Pending Link]* | *[Pending Repo]* | *Future web deployment node.* |
+| Omni-Engine | [Open Application](https://omni-engine-mu.vercel.app) | [View Repository](https://github.com/KernelVoltage/omni-engine) | Privacy-first local image converter. |
+| [System Offline] | [Pending Link] | [Pending Repo] | Future web deployment node. |
 
 ---
 
-##  DATA MATRIX 2: GAME DEVELOPMENT & ASSETS
-| Package Name | Production Access | Engine Framework | Deployment Status |
+## DATA MATRIX 2: GAME PRODUCTION NODES
+| Game Title | Play / Download | Engine Used | Development Status |
 | :--- | :--- | :--- | :--- |
-| **Asset Pack Alpha** | [ Get Graphics](https://itch.io) | Godot / Blender | Asset extraction ready. |
-| *[System Offline]* | *[Pending Link]* | *[Pending Repo]* | *Future game blueprint node.* |
+| [Pending Game] | [Itch.io Project Link] | Godot Engine | Prototype Stage |
 
 ---
+
+## DATA MATRIX 3: DEVELOPER ASSETS & GRAPHICS
+| Package Name | Production Access | Assets Type | Format |
+| :--- | :--- | :--- | :--- |
+| Asset Pack Alpha | [Get Graphics](https://itch.io) | Blender 3D / 2D Vector | Asset extraction ready. |
+
+---
+
+## AUTOMATED REPOSITORY ARCHIVE
+Explore all raw public projects instantly: [View Automatically Generated Directory](https://github.com/KernelVoltage?tab=repositories)
+
+---
+Central Index Maintained by KernelVoltage. Secure Infrastructure.
