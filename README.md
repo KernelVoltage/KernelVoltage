@@ -26,9 +26,3 @@
 | *[System Offline]* | *[Pending Link]* | *[Pending Repo]* | *Future game blueprint node.* |
 
 ---
-
-##  COMPONENT ARCHIVE
- [Explore Complete Automatic Project Directory](https://github.com/KernelVoltage?tab=repositories)
-
----
-[ Headquarter Index](https://github.com/KernelVoltage/Headquarter) | Secured Infrastructure. Zero Tracking.
